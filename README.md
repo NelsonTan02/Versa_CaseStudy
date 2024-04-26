@@ -5,8 +5,6 @@ Step by Step execution of program:
 
 2. Open terminal, navigate to the downloaded repo file directory (Versa_CaseStudy)
  
-2. Execute script.js file with command -> `Node script.js`
-
-3. `output.json` will be created 
+3. Execute script.js file with command -> `Node script.js`
 
 4. Output of the script will be displayed in the `output.json` file
