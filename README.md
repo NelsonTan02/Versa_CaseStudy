@@ -1,13 +1,12 @@
 # Versa_CaseStudy
-Interview Answer for Case Study
+Step by Step execution of program:
 
+1. Ensure NodeJs is installed (If installed, skip to Step 2) -> `https://nodejs.org/en/download/current` 
 
-1. Ensure NodeJs is installed
-
-2. Download the Zip File from my GitHub Repo (Code -> Download ZIP)
+2. Open terminal, navigate to the downloaded repo file directory (Versa_CaseStudy)
  
-3. Execute script.js file
+2. Execute script.js file with command -> `Node script.js`
 
-4. output.json will be created 
+3. `output.json` will be created 
 
-5. Results are in output.json file
+4. Output of the script will be displayed in the `output.json` file
