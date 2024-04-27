@@ -23,7 +23,7 @@ function convertFunction(num){
 }
 
 //Converts to JSON Notation
-let jsonData =  JSON.stringify(newNumbers);
+let jsonData =  JSON.stringify(newNumbers, null, 2);
 
 const fs = require('fs'); //Use Node Js File System
 fs.writeFile('output.json', jsonData, (err) => { //Output results into output.json file
